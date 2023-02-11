@@ -1,0 +1,15 @@
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\bin\Debug\net7.0\thirdProject.exe
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\bin\Debug\net7.0\thirdProject.deps.json
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\bin\Debug\net7.0\thirdProject.runtimeconfig.json
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\bin\Debug\net7.0\thirdProject.dll
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\bin\Debug\net7.0\thirdProject.pdb
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.csproj.AssemblyReference.cache
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.AssemblyInfoInputs.cache
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.AssemblyInfo.cs
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.csproj.CoreCompileInputs.cache
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.dll
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\refint\thirdProject.dll
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.pdb
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\thirdProject.genruntimeconfig.cache
+C:\Users\Calculator\Desktop\Programs\C#\thirdProject\obj\Debug\net7.0\ref\thirdProject.dll

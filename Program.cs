@@ -67,10 +67,23 @@ namespace thirdProject
                     ammo += 1;
                     
                 }
+                // I dont need to catch each individual exception for now, but I might need to in the future. I added a general exception catch at the end just in case.
                 catch(FormatException) {
                     Console.WriteLine("Error, please try again");
                 }
                 catch(IndexOutOfRangeException) {
+                    Console.WriteLine("Error, please try again");
+                }
+                catch(KeyNotFoundException) {
+                    Console.WriteLine("Error, please try again");
+                }
+                catch(ArgumentOutOfRangeException) {
+                    Console.WriteLine("Error, please try again");
+                }
+                catch(NullReferenceException) {
+                    Console.WriteLine("Error, please try again");
+                }
+                catch(Exception) {
                     Console.WriteLine("Error, please try again");
                 }
 

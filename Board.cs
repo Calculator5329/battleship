@@ -11,7 +11,8 @@ namespace thirdProject
         private int[] carrier = {6, 6, 6, 6, 6};
         private int[][] shipBlueprints;
         private string[] messages = {"You have already looked for a ship here!", "You missed!", "You have already hit a ship in this spot",
-                                 "You hit a Patrol Boat!", "You hit a Submarine!", "You hit a Destroyer!", "You hit a Battleship!", "You hit a Carrier!"};
+                                 "You hit a Patrol Boat!", "You hit a Submarine!", "You hit a Destroyer!", "You hit a Battleship!", "You hit a Carrier!",
+                                 "You sunk the Patrol Boat!", "You sunk the Submarine!", "You sunk the Destroyer!", "You sunk the Battleship!", "You sunk the Carrier!"};
 
         public Board() {
              
@@ -31,10 +32,6 @@ namespace thirdProject
         public string fire(int row, int column) {
             // This will implement fire function and return the resulting message
             string returnMsg = "";
-            string[] messages = {"You have already looked for a ship here!", "Wasted ur ammo lol", "You have already hit a ship in this spot",
-                                 "You hit a Patrol Boat!", "You hit a Submarine!", "You hit a Destroyer!", "You hit a Battleship!", "You hit a Carrier!",
-                                 "You sunk the Patrol Boat!", "You sunk the Submarine!", "You sunk the Destroyer!", "You sunk the Battleship!", "You sunk the Carrier!"};
-
             switch(matrix[row, column]) {
                 case -1:
                     returnMsg = messages[0];
